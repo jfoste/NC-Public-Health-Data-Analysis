@@ -5,7 +5,6 @@ This repository contains data comparing uninsured adults, the median household i
 # Purpose
 This data was gathered from the County Public Health data set provided by Prof. Gotzler. 
 
-[Raw Data](
 
 # Potential
 
