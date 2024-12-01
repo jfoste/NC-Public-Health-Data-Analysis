@@ -1,4 +1,4 @@
-## North Carolina and South Carolina Public Health Data Analysis
+## North Carolina Public Health Data Analysis
 
 This repository contains data comparing uninsured adults, the median household income, and poor health numbers. 
 
