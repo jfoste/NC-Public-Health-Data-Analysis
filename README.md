@@ -19,7 +19,8 @@ If you require help to recreate the data shown in this repository then you can n
 
 # Who can contribute?
 
-Anyone can contribute to this dataset as it is open to the public. 
+This repository is owned and created by Jessica Foster. 
+However, anyone can contribute to this dataset as it is open to the public. 
 
 ### Acknowledgements
 This repository was created for Prof. Gotzler's Engl-105-075 class. 
